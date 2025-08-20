@@ -1,0 +1,8 @@
+C:\Users\danie\OneDrive\Documentos\SENA\4. Cuarto trimestre\C#\Taller_POO\Taller_POO\bin\Debug\Taller_POO.exe.config
+C:\Users\danie\OneDrive\Documentos\SENA\4. Cuarto trimestre\C#\Taller_POO\Taller_POO\bin\Debug\Taller_POO.exe
+C:\Users\danie\OneDrive\Documentos\SENA\4. Cuarto trimestre\C#\Taller_POO\Taller_POO\bin\Debug\Taller_POO.pdb
+C:\Users\danie\OneDrive\Documentos\SENA\4. Cuarto trimestre\C#\Taller_POO\Taller_POO\obj\Debug\Taller_POO.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Documentos\SENA\4. Cuarto trimestre\C#\Taller_POO\Taller_POO\obj\Debug\Taller_POO.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documentos\SENA\4. Cuarto trimestre\C#\Taller_POO\Taller_POO\obj\Debug\Taller_POO.exe
+C:\Users\danie\OneDrive\Documentos\SENA\4. Cuarto trimestre\C#\Taller_POO\Taller_POO\obj\Debug\Taller_POO.pdb
+C:\Users\danie\OneDrive\Documentos\SENA\4. Cuarto trimestre\C#\Taller_POO\Taller_POO\obj\Debug\Taller_POO.exe.config
